@@ -7,3 +7,7 @@
 
 # Acer
 SUBSYSTEM=="usb", ATTR{idVendor}=="0502", MODE="0666", GROUP="androiders"
+
+
+# Sharp
+SUBSYSTEM=="usb", ATTR{idVendor}=="04dd", MODE="0666", GROUP="androiders"
