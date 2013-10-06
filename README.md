@@ -8,7 +8,8 @@ LinuxでAndroidの開発を行うにあたって必要な、実機接続時の�
 
 * Debian GNU/Linux 7.1 amd64
 * Android SDK for Linux r22.2.1
-* JDK7u40 for Linux x64
+* Oracle JDK7u40 for Linux x64
+* Eclipse 4.3 Kepler for JavaEE Developers Linux x64
 
 ## 2. before installing
 
