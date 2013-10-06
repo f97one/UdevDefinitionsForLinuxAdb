@@ -1,0 +1,9 @@
+# 2013 HAJIME Fukuna(f97one@gmail.com)
+#
+# /etc/udev/rules.d/51-android.rules
+#
+#    see also:
+#      http://developer.android.com/intl/ja/tools/device.html
+
+# Acer
+SUBSYSTEM=="usb", ATTR{idVendor}=="0502", MODE="0666", GROUP="androiders"
